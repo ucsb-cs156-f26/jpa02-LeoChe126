@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f26/jpa02-LeoChe126.git
 
-Deployed at: https://jpa02-leoche-me.dokku-15.cs.ucsb.edu
+Deployed at: https://jpa02-leoche.dokku-15.cs.ucsb.edu
 
 
 # About this repo
